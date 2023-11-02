@@ -86,3 +86,11 @@ function getCard() {
 * English - B1;
 * Polish - A2;
 * German - A1;
+***
+
+# Hobbies
+* Learning new languages;
+* Hikking;
+* Traveling;
+* Reading books;
+* Listening to music;
