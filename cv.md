@@ -79,3 +79,10 @@ function getCard() {
 * IT Academy (HTML,CSS,JS);
 * RS School (in process...);
 ***
+
+## Languages
+* Russian - Native;
+* Belarussian - B2;
+* English - B1;
+* Polish - A2;
+* German - A1;
