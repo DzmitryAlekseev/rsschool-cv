@@ -72,3 +72,10 @@ function getCard() {
 }
 
 ```
+***
+
+## Education
+* Private Institute of Management and Entrepreneurship (lawyer);
+* IT Academy (HTML,CSS,JS);
+* RS School (in process...);
+***
