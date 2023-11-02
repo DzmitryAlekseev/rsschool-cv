@@ -11,3 +11,11 @@
 ## About myself
 I have good communicative qualities, great teamwork. I like to develop myself. I assume that JS courses help me with this. Mastering new knowledge can help you get a new profession.
 ***
+
+## Skills
+* HTML
+* CSS(BEM)
+* JS(Basic)
+* Figma
+* Git
+***
